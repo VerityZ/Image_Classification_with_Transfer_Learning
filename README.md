@@ -13,24 +13,14 @@ c. No. of testing images: 50 images per pest
 d. Data Source: Automatic script to scrape images of pest from Google through Selenium and Chrome Driver
 e. Pests: aphids, armyworm, beetle, bollworm, grasshopper, mites, mosquito, sawfly, stem borer
 
-#### Model Description
-
+#### Model Description and Accuracy
 ###### Initial Model - Custom CNN
-First, the project built a custom CNN architecture for the pest image classification task. The model consisted of three convolutional layers followed by pooling layers and fully connected layers:
-- **Convolutional Layers**: Aimed to extract meaningful features from the images.
-- **Pooling Layers**: Reduced the dimensionality of the feature maps, thus reducing the number of parameters and computation in the network.
-- **Fully Connected Layers**: Served as classifiers on the features extracted and pooled by the previous layers.
-
-###### Transition to VGG16 with Transfer Learning
-Then, using the VGG16 model, to leverage its robust feature-extracting capabilities. This move was aimed at improving accuracy and reliability.
-
-#### Results Achieved
-
-###### Initial Model Results
+First, the project built a custom CNN architecture for the pest image classification task. The model consisted of three convolutional layers followed by pooling layers and fully connected layers.
 - **Training Accuracy**: Reached to 96.59%.
 - **Validation Accuracy**: Peaked around 95.33%.
-
-###### After Transitioning to VGG16
+- 
+###### Transition to VGG16 with Transfer Learning
+Then, using the VGG16 model, to leverage its robust feature-extracting capabilities. This move was aimed at improving accuracy and reliability.
 - **Training Accuracy**: Improved to a perfect 100%.
 - **Validation Accuracy**: Increased to 98%.
 
