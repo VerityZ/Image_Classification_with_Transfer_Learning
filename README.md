@@ -18,7 +18,7 @@ Pests are a huge threat! Farmers are hard at work however their productivity is 
 First, the project built a custom CNN architecture for the pest image classification task. The model consisted of three convolutional layers followed by pooling layers and fully connected layers.
 - **Training Accuracy**: Reached to 96.59%.
 - **Validation Accuracy**: Peaked around 95.33%.
-- 
+
 ###### Transition to VGG16 with Transfer Learning
 Then, using the VGG16 model, to leverage its robust feature-extracting capabilities. This move was aimed at improving accuracy and reliability.
 - **Training Accuracy**: Improved to a perfect 100%.
