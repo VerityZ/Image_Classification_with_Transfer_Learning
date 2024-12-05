@@ -7,11 +7,11 @@ This repository hosts the Take Home Exam for Math251, focusing on applying custo
 Pests are a huge threat! Farmers are hard at work however their productivity is reduced due to pests, so this dataset can be used to identify pests or maybe other use cases involving pest identification. 
 
 #### Dataset Description
-a. Type of dataset: Image Dataset
-b. No. of training images: 300 images per pest
-c. No. of testing images: 50 images per pest
-d. Data Source: Automatic script to scrape images of pest from Google through Selenium and Chrome Driver
-e. Pests: aphids, armyworm, beetle, bollworm, grasshopper, mites, mosquito, sawfly, stem borer
+- Type of dataset: Image Dataset.
+- training images: 300 images per pest.
+- testing images: 50 images per pest.
+- Data Source: Automatic script to scrape images of pest from Google through Selenium and Chrome Driver.
+- Pests: aphids, armyworm, beetle, bollworm, grasshopper, mites, mosquito, sawfly, stem borer.
 
 #### Model Description and Accuracy
 ###### Initial Model - Custom CNN
