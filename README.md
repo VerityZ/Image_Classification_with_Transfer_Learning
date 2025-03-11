@@ -1,7 +1,7 @@
-### Math251 Take Home Exam 2 - Image Classification with Transfer Learning
+### Image Classification with Transfer Learning
 
 #### Project Overview
-This repository hosts the Take Home Exam for Math251, focusing on applying custom convolutional neural network (CNN) model to the adoption of transfer learning with VGG16 for image classification.
+This repository focusing on applying custom convolutional neural network (CNN) model to the adoption of transfer learning with VGG16 for image classification.
 
 #### Problem Statement
 Pests are a huge threat! Farmers are hard at work however their productivity is reduced due to pests, so this dataset can be used to identify pests or maybe other use cases involving pest identification. 
