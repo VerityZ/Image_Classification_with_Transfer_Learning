@@ -41,7 +41,7 @@ The grid below illustrates several categories (stem borer, sawfly, armyworm, mos
 Although it does not cover all nine classes, it highlights **dataset diversity** across pest types, life stages, and imaging conditions.
 
 <p align="center">
-  <img src="assets/pest_samples.png" width="600" />
+  <img src="/pest_samples.png" width="600" />
 </p>
 
 
