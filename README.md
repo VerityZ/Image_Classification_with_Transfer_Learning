@@ -16,7 +16,7 @@ By applying deep learning techniques, this project demonstrates how early pest d
 - **Key Techniques:** Data augmentation, transfer learning  
 - **Run in minutes:** Sample dataset included; full dataset fetchable with one command  
 
----
+
 
 
 ## Data
@@ -45,7 +45,7 @@ Although it does not cover all nine classes, it highlights **dataset diversity**
 </p>
 
 
----
+
 
 ## Approach & Models
 
@@ -63,7 +63,7 @@ Although it does not cover all nine classes, it highlights **dataset diversity**
 - Applied random rotations, flips, zoom, and brightness adjustments.  
 - Improved robustness against lighting/background noise.  
 
----
+
 
 ## Model Description and Accuracy
 
