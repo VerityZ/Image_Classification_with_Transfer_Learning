@@ -63,13 +63,6 @@ Although it does not cover all nine classes, it highlights **dataset diversity**
 - Applied random rotations, flips, zoom, and brightness adjustments.  
 - Improved robustness against lighting/background noise.  
 
-### Model Results
-<p align="center">
-  <img src="assets/plots/train_curve.png" width="320" />
-  <img src="assets/plots/confusion_matrix.png" width="320" />
-  <img src="assets/plots/pred_grid.png" width="320" />
-</p>
-
 ---
 
 ## Model Description and Accuracy
